@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168" role="img" aria-label="LycaBooth project illustration">
+<rect x="1" y="1" width="558" height="166" rx="14" fill="#111820" stroke="#293542"/><path d="M24 1h96" stroke="#f2be9d" stroke-width="2"/>
+<g fill="none" stroke="#f2be9d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="29" y="50" width="66" height="47" rx="9"/><path d="m44 50 7-12h23l7 12"/><circle cx="62" cy="73" r="14"/></g>
+<text x="116" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#edf4fa">LycaBooth</text>
+<text x="117" y="108" font-family="Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#a4b4c3">WEB / PHOTO BOOTH</text>
+<g fill="#f2be9d" fill-opacity=".1" stroke="#f2be9d" stroke-opacity=".25" stroke-width="2" stroke-linejoin="round"><rect x="388" y="32" width="80" height="110" rx="5"/><path d="M399 52h57m-57 25h57m-57 25h57m-57 25h57"/></g>
+</svg>
