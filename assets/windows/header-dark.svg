@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="174" viewBox="0 0 1000 174" role="img" aria-labelledby="title desc">
+<title id="title">Jai.Me</title><desc id="desc">Web apps and Windows tools by anjailo-me. A compact Windows-inspired profile header.</desc>
+<defs><clipPath id="bounds"><rect x=".5" y=".5" width="999" height="173" rx="8"/></clipPath></defs>
+<g clip-path="url(#bounds)"><rect width="1000" height="174" fill="#202020"/><path d="M0 0h1000v34H0z" fill="#2b2b2b"/>
+<path d="M0 34h1000" stroke="#454545"/>
+<rect x="15" y="10" width="15" height="15" rx="3" fill="#60b9ff"/><path d="M19 14h7v7h-7z" fill="none" stroke="#202020" stroke-width="1.2"/>
+<text x="41" y="23" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#f5f5f5">Profile — anjailo-me</text>
+<g stroke="#bfc3c9" stroke-width="1.2" fill="none"><path d="M883 18h12"/><rect x="929" y="12" width="11" height="10"/><path d="m971 12 11 11m-11 0 11-11"/></g>
+<rect x="25" y="63" width="4" height="65" rx="2" fill="#60b9ff"/>
+<text x="45" y="94" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600" fill="#f5f5f5">Jai.Me</text>
+<text x="46" y="123" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#bfc3c9">Web apps &amp; Windows tools</text>
+<rect x="901" y="64" width="64" height="64" rx="12" fill="#0067c0"/><text x="933" y="106" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#ffffff">JM</text>
+<path d="M0 151h1000" stroke="#454545"/><rect x="0" y="152" width="1000" height="22" fill="#2b2b2b"/>
+<text x="18" y="167" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#bfc3c9">Projects and tools</text></g>
+<rect x=".5" y=".5" width="999" height="173" rx="8" fill="none" stroke="#454545"/></svg>
